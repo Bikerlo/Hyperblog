@@ -1,0 +1,8 @@
+git init (Inicia el repositorio con los documentos presentes en la carpeta)
+git status (ver estado del repositorio)
+git config --global user."email/name" (configurar email o nombre de usuario)
+git config --list (para ver el archivo de configuracion)
+git commit -m "mensaje para el futuro" (Es para hacer una confirmacion de los cambios realizados a uno o más archivos que hayan sido agregados por git add .)
+git add "nombre archivo" (en caso de añadir todos se usa "." sin comillas, es para poner en lista de espera para un posible commit)
+git log "archivo" (para ver las modificaciones)
+git show "archivo" (para ver los cambios de la version actual con la ultima version en commit)
